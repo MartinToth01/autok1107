@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-#jobb>img {
+#jobb>img { 
     width: 100% ;
     height: auto;
     border: 1px grey solid;
